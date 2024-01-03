@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Gabriel Martin del Campo y Eternod", email = "gmartindelcye@gmail.com"},
+]
+dependencies = [
+    "yfinance>=0.2.33",
+    "streamlit>=1.29.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
